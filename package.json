@@ -1,0 +1,10 @@
+{
+  "name": "mono.test.root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^6.5.1"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
